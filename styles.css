@@ -3,12 +3,14 @@ body {
 }
 
 img {
-    display: block;
+    /*display: flex;
+    justify-content: center;
+    align-items: center;*/
     box-sizing: border-box;
     border: 2px solid black;
     height: auto;
     width: 250px;
-    margin: 10px auto;
+    /*margin: 10px auto;*/
     font-size: 0;
     line-height: 0;
 }
@@ -33,5 +35,5 @@ a {
     justify-content: center;
     align-items: center;
     width: 250px;
-    margin: 10px auto;
+    margin: 15px auto;
 }
