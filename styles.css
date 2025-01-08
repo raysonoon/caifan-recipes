@@ -22,10 +22,6 @@ img {
     gap: 20px;
 }
 
-li {
-    list-style-type: none;
-}
-
 .title {
     text-align: center;
     font-size: 40px;
